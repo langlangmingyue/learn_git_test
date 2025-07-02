@@ -12,6 +12,8 @@ public class Main {
             System.out.println("i = " + i);
 
             System.out.println("hello " + i);
+
+            System.out.println("进入新创建的分支：test2");
         }
     }
 }
